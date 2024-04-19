@@ -24,6 +24,18 @@ Paper di riferimento: https://ieeexplore.ieee.org/document/7939924
 Di seguito il readme dal fork svolto dagli sviluppatori di Ultraleap 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Gemini LeapC Python Bindings
 
 [![mail](https://img.shields.io/badge/Contact-support%40ultraleap.com-00cf75)](mailto:support@ultraleap.com)
