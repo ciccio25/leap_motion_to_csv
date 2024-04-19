@@ -11,13 +11,19 @@
 
 # Leap Motion to csv file (tip positions and palm center)
 
-Questo progetto salva 120 frame dal Leap Motion usando Python, salva la in ogni frame i tip position delle dita e il palm center. 
+Questo progetto salva 120 frame dal Leap Motion usando Python, salva in ogni frame i tip position delle dita e il palm center. 
 
 È disponibile un piccolo dataset delle lettere del LIS (Italian Sign Language) più 5 movimenti dal paper di cui questo progetto fa riferimento. 
 
 Inoltre, è presente una rete neurale scritta in Matlab R2024a per le lettere fisse. 
 
 Nella cartella "documentazione progetto" sono disponibili tutti i file per capire nel dettaglio come impostare il progetto da zero e cosa fa. 
+
+Nella cartella "examples" è presente la cartella se volete voi costruire da zero delle acquisizioni. 
+
+Nella cartella "dataset progetto", sono presenti tutti i file che ho acquisito per la riuscita del progetto stesso. 
+
+Ringrazio tutti quelli che hanno contribuito a realizzare questa repository. 
 
 Paper di riferimento: https://ieeexplore.ieee.org/document/7939924 
 
