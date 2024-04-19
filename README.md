@@ -1,3 +1,12 @@
+Questo progetto salva 120 frame dal Leap Motion usando Python e li salva in una tabella in .csv
+
+È disponibile un piccolo dataset delle lettere del LIS (Italian Sign Language) più 5 movimenti dal paper di cui questo progetto fa riferimento.
+Inoltre, è presente una rete neurale scritta in Matlab R2024a per le lettere fisse. 
+
+Nella cartella "documentazione progetto" sono disponibili tutti i file per capire nel dettaglio come impostare il progetto da zero e cosa fa. 
+
+Paper di riferimento: https://ieeexplore.ieee.org/document/7939924 
+
 <!--links-->
 [apache]: http://www.apache.org/licenses/LICENSE-2.0 "Apache V2 License"
 
