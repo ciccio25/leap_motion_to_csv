@@ -27,6 +27,9 @@ Ringrazio tutti quelli che hanno contribuito a realizzare questa repository.
 
 Paper di riferimento: https://ieeexplore.ieee.org/document/7939924 
 
+Dataset completo da scaricare https://univpm-my.sharepoint.com/:f:/g/personal/s1098092_studenti_univpm_it/Et9JYClKM_pPjQJUaL3Xn3wByGynE7Mfd4wiH0bNRL4S6g?e=cDKVzb
+
+
 Di seguito il readme dal fork svolto dagli sviluppatori di Ultraleap 
 
 
