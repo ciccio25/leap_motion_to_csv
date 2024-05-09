@@ -19,9 +19,7 @@ Inoltre, è presente una rete neurale scritta in Matlab R2024a per le lettere fi
 
 Nella cartella "documentazione progetto" sono disponibili tutti i file per capire nel dettaglio come impostare il progetto da zero e cosa fa. 
 
-Nella cartella "examples" è presente la cartella se volete voi costruire da zero delle acquisizioni. 
-
-Nella cartella "dataset progetto", sono presenti tutti i file che ho acquisito per la riuscita del progetto stesso. 
+Nella cartella "examples" è presente la cartella per costruire da zero delle acquisizioni. 
 
 Ringrazio tutti quelli che hanno contribuito a realizzare questa repository. 
 
