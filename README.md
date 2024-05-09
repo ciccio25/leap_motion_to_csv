@@ -21,8 +21,6 @@ Nella cartella "documentazione progetto" sono disponibili tutti i file per capir
 
 Nella cartella "examples" è presente la cartella per costruire da zero delle acquisizioni. 
 
-Nella cartella "dataset progetto", sono presenti tutti i file che ho acquisito per la riuscita del progetto stesso. 
-
 Ringrazio tutti quelli che hanno contribuito a realizzare questa repository. 
 
 Paper di riferimento: https://ieeexplore.ieee.org/document/7939924 
